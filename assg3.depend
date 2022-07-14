@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1652625854 source:c:\users\veron\desktop\assg3\main.cpp
+	<iostream>
+	"library/seqinfileenumerator.hpp"
+	"library/stringstreamenumerator.hpp"
+	"library/counting.hpp"
+	"library/summation.hpp"
+	"library/linsearch.hpp"
+
+1651919514 c:\users\veron\desktop\assg3\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1651919514 c:\users\veron\desktop\assg3\library\enumerator.hpp
+
+1651919514 c:\users\veron\desktop\assg3\library\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1651919514 c:\users\veron\desktop\assg3\library\counting.hpp
+	"summation.hpp"
+
+1651919514 c:\users\veron\desktop\assg3\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1651919514 c:\users\veron\desktop\assg3\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1651919514 c:\users\veron\desktop\assg3\library\linsearch.hpp
+	"procedure.hpp"
+

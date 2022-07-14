@@ -1,0 +1,9 @@
+Peter LAC0512 carp 45 carp 53 catfish 96
+Barna LAC0512 catfish 53 catfish 96 catfish 56
+Jakab BN05232 catfish 45 catfish 53 catfish 96 catfish 56
+Zoltan BN05232 catfish 53 catfish 96 catfish 56
+Tiko AA05232 catfish 53 catfish 96 catfish 56
+
+
+
+
